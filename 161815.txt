@@ -1,0 +1,2 @@
+$ git clone https://github.com/pbacev/SI_2022_lab1_161185.git
+
